@@ -1,6 +1,6 @@
 #Optimal solution for union of two sorted arrays
 class Solution:
-    def FindUnion(self arr1, arr2, n, m):
+    def FindUnion(self, arr1, arr2, n, m):
         i, j = 0, 0
         union = []
         
